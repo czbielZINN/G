@@ -1,3 +1,4 @@
+
 # <!DOCTYPE html> 
 <html lang="en">
     <head>
@@ -8,11 +9,14 @@
         <link rel="stylesheet" href="style.ccs"
     </head>        
     <body>
-        <header>
+        <header>cod warzone (2020)
             <h1></h1>
             <ul>
                 <li>sobre a empresa</li>
                 <li>curiosidades sobre COD WARZONE</li>
+                
+                <li>Um jogo da empresa da ubisoft, agora comprado pela microsft</li>
+            </ul>Plataformas: Pc,Mobile,Console (xbox series, xbox one, ps4,ps5)
             </ul>
        
         </header>
